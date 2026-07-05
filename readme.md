@@ -33,11 +33,11 @@ A deep learning project that fine-tunes a pretrained ResNet18 to classify 37 cat
 
 **Correct prediction** — American Pit Bull Terrier, with the heatmap correctly focused on facial features:
 
-![demo 1](demo_example_1.png.png)
+![demo 1](demo_example_1.png)
 
 **Misclassification** — a mixed-breed/street dog predicted as "Shiba Inu." A useful limitation to note: the model was trained on curated purebred photos, so unusual poses or non-purebred dogs can still be confidently misclassified based on coloring/build similarity.
 
-![demo 2](demo_example_2.png.png)
+![demo 2](demo_example_2.png)
 
 ## How to run
 
